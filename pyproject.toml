@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "cloudbase-re"
+version = "1.0.0"
+description = "CloudBase-RE - clean-room Python study of the VDDK-style disk library: VMDK descriptors, NFC handshake model, NBD block streaming, loopback lab fixture."
+requires-python = ">=3.11"
+license = { text = "MIT" }
+[tool.setuptools]
+packages = ["openvixdisklib"]

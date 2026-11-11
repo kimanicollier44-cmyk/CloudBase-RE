@@ -1,0 +1,6 @@
+services:
+  cloudbase-re:
+    build: .
+    image: credkellar/cloudbase-re:latest
+    container_name: cloudbase-re
+    command: ["python", "main.py", "demo"]
