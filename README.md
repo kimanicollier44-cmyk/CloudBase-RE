@@ -1,6 +1,6 @@
 # 💽 CloudBase-RE
 
-![Cover](assets/cover.png)
+![Cover](IMG_5479.png)
 
 ![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![Protocol NBD + NFC model](https://img.shields.io/badge/Protocol-NBD%20%2B%20NFC%20model-orange)
